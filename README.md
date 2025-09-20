@@ -1,6 +1,6 @@
 # Medi-Team Assist
 
-Medi-Team Assist is a software engineering project designed to provide reliable, doctor-verified prescriptions through a digital healthcare platform. It connects patients with real doctors, ensuring safe, secure, and fast medical implimentation of online consultations.
+Medi-Team Assist is a software engineering project designed to provide reliable, doctor-verified prescriptions through a digital healthcare platform. It connects patients with real doctors, ensuring safe, secure, and fast medical implementation of online consultations.
 
 ---
 
